@@ -9,7 +9,7 @@ def fourth_challenge
         age: "17",
         attitude: "worried"
       },
-      "Mercutio" = {
+      {
         name: "Mercutio",
         age: "18",
         attitude: "hot-headed"
@@ -25,7 +25,7 @@ def fourth_challenge
         age: "30",
         attitude: "confused"
       },
-      "Nurse" = {
+      {
         name: "Nurse",
         age: "44",
         attitude: "worried"
