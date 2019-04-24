@@ -12,7 +12,7 @@ def second_challenge
       patriarch:{}
       matirarch:{}
       hero:{}
-      hero_friend:{}
+      hero_friend:[]
       }}
 
   
